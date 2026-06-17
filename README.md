@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sudipta Mandal**
+# Hi, I'm **Sudipta Mandal**
 
-### 🤖 Robotics Engineer | IoT Developer | Embedded Systems | Founder @ Skrafect
+### Robotics Engineer | IoT Developer | Embedded Systems | Founder @ Skrafect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudipta-mandal-0a05452b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidm145)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 sudipta = {
@@ -23,19 +23,19 @@ sudipta = {
     "cgpa"       : 7.8,
     "location"   : "Bangalore, India",
     "startup"    : "Skrafect — IoT Project Solutions",
-    "motto"      : "Believe in Destiny 🌟",
+    "motto"      : "Believe in Destiny ",
     "focus"      : ["Robotics", "IoT", "AI/ML", "Embedded Systems"],
 }
 ```
 
-> 🔭 I build **intelligent hardware systems** — from circuit design to AI integration.  
-> 🌱 Currently learning **ROS2**, **SLAM**, and **Advanced Computer Vision**.  
-> 💼 **Founder of [Skrafect](https://skrafect.netlify.app)** — helping students complete IoT & final-year projects.  
-> 📫 Reach me at **sudeeproyal04@gmail.com**
+>  I build **intelligent hardware systems** — from circuit design to AI integration.  
+>  Currently learning **ROS2**, **SLAM**, and **Advanced Computer Vision**.  
+> **Founder of [Skrafect](https://skrafect.netlify.app)** — helping students complete IoT & final-year projects.  
+>  Reach me at **sudeeproyal04@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -61,24 +61,24 @@ sudipta = {
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 | Project | Tech | Description |
 |---|---|---|
-| [🛡️ AI Border Security System](https://github.com/sidm145/AI-border-security-system) | ESP32-S3, ESP32-CAM, YOLOv8 | Multi-phase intrusion detection with AI surveillance |
-| [🗑️ AI Smart Dustbin](https://github.com/sidm145/AI-Based-Smart-Dustbin-) | YOLOv8, ESP32-CAM, Arduino | Intelligent waste sorting with conveyor automation |
-| [🤖 University AI Welcome Bot](https://github.com/sidm145/University-AI-Bot) | ESP32, INMP441, Python | PIR-activated AI greeter with voice & servo |
-| [🕷️ Spider Robot (Quadruped)](https://github.com/sidm145/Arduino-powered-quadruped-with-12-servo-driven) | Arduino, 12 Servos, IK | 12-DOF walking robot with Bluetooth control |
-| [🎯 AI Head Tracking System](https://github.com/sidm145/AI-powered-head-tracking-system) | YOLOv8, Arduino Nano | Real-time head detection with pan-tilt servo |
-| [☀️ AI Solar Thermal Cooker](https://github.com/sidm145/AI-Solar-Thermal-Cooking-System) | Arduino, Dual-Axis | Renewable energy prototype with sun tracking |
-| [🚦 Dual-Axis Solar Tracker](https://github.com/sidm145/Dual-Axis-Solar-Tracking-System) | Arduino, 4 LDRs | Auto-aligning panel using LDR cross-formation |
-| [🚂 Automatic Railway Gate](https://github.com/sidm145/Automatic-Railway-Gate-System-) | Arduino, HC-SR04 | Ultrasonic train detection with gate control |
-| [🔴 Laser Security System](https://github.com/sidm145/Nano-based-laser-tripwire-security-system-) | Arduino Nano, LDR | Tripwire alarm with instant buzzer alert |
-| [💊 Pill Reminder](https://github.com/sidm145/Pill-Reminder-using-Arduino-DS3231-RTC-module) | Arduino, DS3231 | Scheduled medication reminders with LCD |
+| [ AI Border Security System](https://github.com/sidm145/AI-border-security-system) | ESP32-S3, ESP32-CAM, YOLOv8 | Multi-phase intrusion detection with AI surveillance |
+| [ AI Smart Dustbin](https://github.com/sidm145/AI-Based-Smart-Dustbin-) | YOLOv8, ESP32-CAM, Arduino | Intelligent waste sorting with conveyor automation |
+| [ University AI Welcome Bot](https://github.com/sidm145/University-AI-Bot) | ESP32, INMP441, Python | PIR-activated AI greeter with voice & servo |
+| [ Spider Robot (Quadruped)](https://github.com/sidm145/Arduino-powered-quadruped-with-12-servo-driven) | Arduino, 12 Servos, IK | 12-DOF walking robot with Bluetooth control |
+| [ AI Head Tracking System](https://github.com/sidm145/AI-powered-head-tracking-system) | YOLOv8, Arduino Nano | Real-time head detection with pan-tilt servo |
+| [ AI Solar Thermal Cooker](https://github.com/sidm145/AI-Solar-Thermal-Cooking-System) | Arduino, Dual-Axis | Renewable energy prototype with sun tracking |
+| [ Dual-Axis Solar Tracker](https://github.com/sidm145/Dual-Axis-Solar-Tracking-System) | Arduino, 4 LDRs | Auto-aligning panel using LDR cross-formation |
+| [ Automatic Railway Gate](https://github.com/sidm145/Automatic-Railway-Gate-System-) | Arduino, HC-SR04 | Ultrasonic train detection with gate control |
+| [ Laser Security System](https://github.com/sidm145/Nano-based-laser-tripwire-security-system-) | Arduino Nano, LDR | Tripwire alarm with instant buzzer alert |
+| [ Pill Reminder](https://github.com/sidm145/Pill-Reminder-using-Arduino-DS3231-RTC-module) | Arduino, DS3231 | Scheduled medication reminders with LCD |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -92,11 +92,11 @@ sudipta = {
 
 ---
 
-## 💼 Skrafect — My Startup
+##  Skrafect — My Startup
 
 <div align="center">
 
-**🚀 Helping students complete their IoT & Robotics projects from scratch!**  
+** Helping students complete their IoT & Robotics projects from scratch!**  
 Hardware design · Firmware coding · Documentation · Final Year Project Support
 
 [![Visit Skrafect](https://img.shields.io/badge/🌐_Visit_Skrafect-00D4D4?style=for-the-badge)](https://skrafect.netlify.app)
@@ -108,7 +108,7 @@ Hardware design · Firmware coding · Documentation · Final Year Project Suppor
 <div align="center">
 
 *"Believe in Destiny"* ✨  
-**📍 Bangalore, India · B.Tech Robotics · Garden City University**
+** Bangalore, India · B.Tech Robotics · Garden City University**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sidm145&color=1a4d8f&style=flat-square)
 
