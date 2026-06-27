@@ -18,7 +18,7 @@
 ```python
 sudipta = {
     "name"       : "Sudipta Mandal",
-    "degree"     : "B.Tech Robotics Engineering (2023–2027)",
+    "degree"     : "B.Tech Robotics And AIML Engineering (2023–2027)",
     "college"    : "Garden City University, Bangalore",
     "cgpa"       : 7.8,
     "location"   : "Bangalore, India",
