@@ -99,7 +99,7 @@ sudipta = {
 ** Helping students complete their IoT & Robotics projects from scratch!**  
 Hardware design · Firmware coding · Documentation · Final Year Project Support
 
-[![Visit Skrafect](https://img.shields.io/badge/🌐_Visit_Skrafect-00D4D4?style=for-the-badge)](https://skrafect.netlify.app)
+[![Visit Skrafect](https://img.shields.io/badge/🌐_Visit_Skrafect-00D4D4?style=for-the-badge)](https://skrafect.in)
 
 </div>
 
@@ -108,7 +108,7 @@ Hardware design · Firmware coding · Documentation · Final Year Project Suppor
 <div align="center">
 
 *"Believe in Destiny"* ✨  
-** Bangalore, India · B.Tech Robotics · Garden City University**
+** Bangalore, India · B.Tech Robotics And AIML · Garden City University**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sidm145&color=1a4d8f&style=flat-square)
 
